@@ -1,0 +1,87 @@
+1. Questions about Airport Operations:
+
+Q: How many terminals does the airport where Ayesha works have?
+A: The airport where Ayesha works has three terminals: Terminal 1 (Domestic), Terminal 2 (International), and Terminal 3 (Cargo).
+
+Q: What are the frequencies for air traffic control communication at the airport?
+A: The frequencies for air traffic control communication at the airport are Tower Frequency (118.3 MHz), Ground Control Frequency (121.9 MHz), and Approach Control Frequency (124.5 MHz).
+
+Q: How many runways does the airport have?
+A: The airport has three runways: one 10,000 feet long, one 8,000 feet long, and one 7,000 feet long.
+
+2. Questions about Customer Support Skills:
+
+Q: In how many languages can Ayesha provide assistance to passengers?
+A: Ayesha can provide assistance to passengers in three languages: English, Spanish, and Mandarin.
+
+Q: What are the communication channels available for passengers to reach out to Ayesha?
+A: Passengers can reach out to Ayesha through face-to-face interaction, phone, email, and chat.
+
+Q: What is the average daily number of inquiries Ayesha handles?
+A: Ayesha handles an average of 200 inquiries per day.
+
+3. Questions about Knowledge of Colleagues' Roles:
+
+Q: What is Hamza Arshad's role at the airport?
+A: Hamza Arshad's role at the airport is as a Ticket Counter Information Giver.
+
+Q: What ticketing systems does Hamza Arshad use?
+A: Hamza Arshad uses ticketing systems such as Amadeus and Sabre.
+
+Q: What are some responsibilities of Ahmad Bilal, the Security Avatar Specialist?
+A: Ahmad Bilal's responsibilities include maintaining airport security through the use of security avatars, assisting with security procedures, and reassuring passengers of their safety.
+
+4. Additional Questions:
+
+Q: How many checkpoints are there for security screening at the airport?
+A: There are 10 checkpoints for security screening at the airport.
+
+Q: What is the customer satisfaction rate at the airport?
+A: The customer satisfaction rate at the airport is 95%.
+
+User
+please continue more questions
+ChatGPT
+5. Questions about Flight Information:
+
+Q: Can you provide details about Flight ABC456?
+A: Flight ABC456 is operated by XYZ Airlines. It departs from Terminal 2, Gate B10, heading to London (LHR) with a departure time of 1:00 PM, and it is currently in the boarding status.
+
+Q: What is the departure time for Flight XYZ123?
+A: The departure time for Flight XYZ123 is 10:00 AM.
+
+Q: Which terminal does Flight ABC456 depart from?
+A: Flight ABC456 departs from Terminal 2.
+
+6. Questions about Emergency Procedures:
+
+Q: What medical facilities are available in each terminal for emergencies?
+A: First aid stations are located in each terminal for medical emergencies.
+
+Q: How many Sentinel avatars are deployed throughout the airport for security purposes?
+A: The number of Sentinel avatars deployed throughout the airport is not specified in the data provided.
+
+Q: What are the peak hours for passenger inquiries at the airport?
+A: The peak hours for passenger inquiries at the airport are from 9:00 AM to 11:00 AM and from 4:00 PM to 7:00 PM.
+
+7. Miscellaneous Questions:
+
+Q: How many shops are there in Terminal 1?
+A: There are no specific details provided regarding the number of shops in Terminal 1.
+
+Q: What types of facilities are available in Terminal 3?
+A: Terminal 3 is designated for cargo operations, but specific details about facilities within Terminal 3 are not provided.
+
+Q: How is the airport's duty-free area distributed among the terminals?
+A: The distribution of the duty-free area among the terminals is not specified in the data provided.
+
+8. Follow-up Questions:
+
+Q: Could you elaborate on the communication training Ayesha undergoes to enhance her customer interaction skills?
+A: Certainly! Ayesha undergoes ongoing communication training sessions to improve her ability to effectively engage with passengers. These sessions may include role-playing exercises, communication techniques, and strategies for handling various customer scenarios.
+
+Q: Can you provide more information about the roles and responsibilities of the security avatar specialist, Ahmad Bilal?
+A: Of course! Ahmad Bilal is responsible for maintaining airport security through the deployment and management of security avatars known as Sentinels. These avatars assist in security procedures, guide passengers through screening processes, and contribute to ensuring a safe and secure environment within the airport premises.
+
+Q: What measures are in place to ensure that passengers are aware of prohibited items at security checkpoints?
+A: To ensure passenger awareness of prohibited items, signage displaying the list of prohibited items is prominently displayed at security checkpoints. Additionally, security personnel may verbally inform passengers about prohibited items and answer any related inquiries to ensure compliance with security regulations.

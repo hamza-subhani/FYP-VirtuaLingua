@@ -1,0 +1,152 @@
+What are the departure and arrival airports for flight AA123?
+
+Departure: New York (JFK)
+Arrival: Los Angeles (LAX)
+Which airline operates flight UA456?
+
+United Airlines
+What is the ticket price for flight DL789?
+
+$280
+How many available seats are there on flight BA567?
+
+5
+What time does flight SQ890 depart from Singapore?
+
+8:00 AM
+Which flight arrives in New York at 12:30 AM?
+
+Flight EK345 (Emirates)
+What is the destination for flight PK789?
+
+Karachi (KHI)
+How much does a ticket for flight PK456 cost?
+
+$300
+From which airport does flight PK123 depart?
+
+Karachi (KHI)
+What time does flight PK234 arrive in Toronto?
+
+5:00 AM (next day)
+How many available seats are there on flight PK567?
+
+20
+What is the arrival time for flight AA123 in Los Angeles?
+
+1:00 PM
+What is the departure time for flight UA456 from Chicago?
+
+12:30 PM
+Which airline operates the flight from Atlanta to Miami at 9:45 AM?
+
+Delta Air Lines (flight DL789)
+What is the destination for flight BA567 departing from London?
+
+Dubai (DXB)
+How many seats are available on flight SQ890 to Sydney?
+
+12
+What is the price for a ticket on flight EK345?
+
+$900
+From which city does flight PK789 to Karachi depart?
+
+Islamabad (ISB)
+What time does flight PK456 arrive in Dubai?
+
+5:00 PM
+What is the departure time for flight PK123 to London?
+
+9:00 PM
+How many seats are available on flight PK234 to Toronto?
+
+15
+What is the ticket price for flight PK567 from Lahore to Jeddah?
+
+$450
+Which flight departs from New York at 10:00 AM?
+
+Flight AA123 (American Airlines)
+What is the destination for flight UA456?
+
+San Francisco (SFO)
+What is the arrival time for flight DL789 in Miami?
+
+11:30 AM
+Which airline operates flight BA567 to Dubai?
+
+British Airways
+What is the departure airport for flight SQ890 to Sydney?
+
+Singapore (SIN)
+What is the arrival time for flight EK345 in New York?
+
+12:30 AM
+What is the ticket price for flight PK789 from Islamabad to Karachi?
+
+$200
+How many seats are available on flight PK456 to Dubai?
+
+18
+What is the destination for flight PK123 departing at 9:00 PM?
+
+London (LHR)
+What is the departure time for flight PK234 from Islamabad to Toronto?
+
+8:00 PM
+What is the ticket price for flight PK567 departing from Lahore?
+
+$450
+Which flight departs at 3:00 PM from London?
+
+Flight BA567 (British Airways)
+What is the price for a ticket on flight AA123 from New York to Los Angeles?
+
+$350
+How many seats are available on flight UA456 to San Francisco?
+
+10
+What is the departure time for flight DL789 from Atlanta?
+
+9:45 AM
+Which airline operates the flight departing from Dubai at 6:45 PM?
+
+Emirates (flight EK345)
+What is the destination for flight PK789 departing at 11:00 AM?
+
+Karachi (KHI)
+What time does flight PK456 depart from Lahore?
+
+2:30 PM
+What is the arrival time for flight PK123 in London?
+
+5:00 AM (next day)
+How many seats are available on flight PK234 from Islamabad to Toronto?
+
+15
+What is the departure time for flight PK567 from Lahore to Jeddah?
+
+1:30 AM
+Which flight departs from Chicago at 12:30 PM?
+
+Flight UA456 (United Airlines)
+What is the destination for flight DL789 departing from Atlanta?
+
+Miami (MIA)
+What is the departure airport for flight BA567 to Dubai?
+
+London (LHR)
+What time does flight SQ890 arrive in Sydney?
+
+3:30 PM
+What is the ticket price for flight EK345 from Dubai to New York?
+
+$900
+How many available seats are there on flight PK789 to Karachi?
+
+25
+What is the destination for flight PK234 departing at 8:00 PM?
+
+Toronto (YYZ)
+These questions and answ
